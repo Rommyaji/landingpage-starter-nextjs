@@ -1,5 +1,5 @@
 ## About Repo
-Starting projects for using next js with chakra ui landing page template. This small project is just example on how to use chakra-ui in next js. Template code used are :<br>
+Chakra-UI starter landing page template. This small project is just example on how to use chakra-ui in next js. Template code used are :<br>
 * Navbar
 * Hero
 * Pricing
@@ -10,7 +10,7 @@ Starting projects for using next js with chakra ui landing page template. This s
 ## Installation
 Next JS Chakra UI <br>
 ``` bash
-npm i @chakra-ui/react @chakra-ui/next-js @emotion/react @emotion/styled framer-motion @chakra-ui/icons 
+npm i @chakra-ui/react @chakra-ui/next-js @emotion/react @emotion/styled framer-motion @chakra-ui/icons ``` 
 
 
 
