@@ -10,7 +10,8 @@ Chakra-UI starter landing page template. This small project is just example on h
 ## Installation
 Next JS Chakra UI <br>
 ``` bash
-npm i @chakra-ui/react @chakra-ui/next-js @emotion/react @emotion/styled framer-motion @chakra-ui/icons ``` 
+npm i @chakra-ui/react @chakra-ui/next-js @emotion/react @emotion/styled framer-motion @chakra-ui/icons
+```
 
 
 
